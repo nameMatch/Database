@@ -4,8 +4,4 @@ These backbone datasets are compiled from the below data sources:
 
 (1) TPL: The Plant List (http://theplantlist.com/)
 
-(2) WFO: World Flora Online ().
-
-(3) LCVP:
-
-(4) World Plants:
+Currently, we only share the TPL data as an example. Will add more datasets soon.
