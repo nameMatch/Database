@@ -1,6 +1,6 @@
-# Data_backbone
+# Database
 
-These backbone datasets are compiled from the below data sources:
+These datasets are compiled from the below data sources:
 
 (1) TPL: The Plant List (http://theplantlist.com/)
 
