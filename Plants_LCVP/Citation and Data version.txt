@@ -1,0 +1,3 @@
+LCVP version 1.0.3
+
+Freiberg, M., Winter, M., Gentile, A., Zizka, A., Muellner-Riehl, A.N., Weigelt, A., & Wirth, C. (2020) LCVP, the Leipzig catalogue of vascular plants, a new taxonomic reference list for all known vascular plants. Scientific Data, 7, 416.
