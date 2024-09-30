@@ -1,0 +1,6 @@
+Global Lepidoptera Index
+
+https://www.catalogueoflife.org/data/dataset/55434
+https://www.checklistbank.org/dataset/55434/about
+ 
+Beccaloni, G., Scoble, M., Kitching, I., Simonsen, T., Robinson, G., Pitkin, B., Hine, A., Lyal, C., Ollerenshaw, J., Wing, P., & Hobern, D. (2024). Global Lepidoptera Index (version 1.1.24.199). In O. Bánki, Y. Roskov, M. Döring, G. Ower, D. R. Hernández Robles, C. A. Plata Corredor, T. Stjernegaard Jeppesen, A. Örn, L. Vandepitte, D. Hobern, P. Schalk, R. E. DeWalt, K. Ma, J. Miller, T. Orrell, R. Aalbu, J. Abbott, R. Adlard, C. Aedo, et al., Catalogue of Life (Version 2024-07-18). Catalogue of Life, Amsterdam, Netherlands. https://doi.org/10.48580/dgbqz-49xk
