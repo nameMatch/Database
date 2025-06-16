@@ -1,4 +1,4 @@
-Plants_China_SP2000_2024Edition
+Plants_China_SP2000_2025Edition
 
-List of plant species in China (2024 Edition), 2024, Plant Data Center of Chinese Academy of Sciences, DOI:10.12282/plantdata.1476, CSTR:34735.11.PLANTDATA.1476
-中国植物物种名录（2024版）,国家植物标本资源库(中国科学院植物研究所), 2024, 中国科学院植物科学数据中心, DOI:10.12282/plantdata.1476, CSTR:34735.11.PLANTDATA.1476
+List of plant species in China (2025 Edition), 2025, Plant Data Center of Chinese Academy of Sciences, DOI:10.12282/plantdata.1676, CSTR:34735.11.PLANTDATA.1676
+中国植物物种名录（2025版）,国家植物标本资源库(中国科学院植物研究所), 2025, 中国科学院植物科学数据中心, DOI:10.12282/plantdata.1676, CSTR:34735.11.PLANTDATA.1676
