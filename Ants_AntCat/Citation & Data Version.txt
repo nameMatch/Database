@@ -1,0 +1,7 @@
+To cite AntCat:			
+Bolton, B. 2025. An online catalog of the ants of the world. Available from https://antcat.org. (accessed 2025-06-15)
+
+[2025-06-15 downloaded]
+https://antcat.org/
+
+Note: A name with ACCEPTED_ID = 0 means that the name is an unresolved name. If it has a value or code in the column ACCEPTED_ID_extended, which means that its species-level name is an accepted name, you may replace the “0” value in the column ACCEPTED_ID with the value or code in the column ACCEPTED_ID_extended if you are interested to standardize the name to its accepted species name.
